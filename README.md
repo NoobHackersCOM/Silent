@@ -53,7 +53,7 @@ Cloning semua negara tampa login akun fb,  login token free dari gua tinggal tem
 pkg update && pkg upgrade
 pkg install python2
 pkg install git
-git clone https://github.com/Yayan-XD/Silent
+git clone https://github.com/NoobHackersCOM/Silent
 ```
 ### And Silent this script
 ```
